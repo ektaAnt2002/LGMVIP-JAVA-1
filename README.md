@@ -1,1 +1,2 @@
-# currency-converter
+# currency-converter 
+The purpose of this Java project is to convert a currency from one to another. A web-based interface for converting currency and getting the output value, for example, here displays converting the currency of the US dollar to INR. We see variations with different countries using different currencies. A calculator-like application, developed using Ajax, Applet, and web features of Java servlets.
